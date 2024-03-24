@@ -12,6 +12,7 @@ export default function Home() {
       <main>
         <Header title="Hi!" />
         <p className="description">Nothing to see here, currently.</p>
+        <p className="description">But if you're looking for the Shoutout Tool, <a href="https://so.sunnyegg.id/">click this</a>.</p>
       </main>
     </div>
   );
